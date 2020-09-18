@@ -137,7 +137,9 @@ body {
 .container {
 	font-family: Arial, Helvetica, sans-serif;
 }
-
+a {
+	cursor: pointer;
+}
 .header {
 	display: flex;
 	flex-direction: column;
