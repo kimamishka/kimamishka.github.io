@@ -131,7 +131,8 @@ body.lock {
 }
 
 body {
-	background-color: #ffb273;
+	/*background-color: #ffb273;*/
+	background: url(../img/fon.png) 0 0 no-repeat;
 }
 
 .container {
