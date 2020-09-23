@@ -183,7 +183,7 @@ a {
 	color: #ff0000;
 }
 .main__title {
-	font-family: "Kaushan Script";
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	color: #ff7400;
 	font-size: 40px;
 	font-weight: 700;
