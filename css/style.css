@@ -131,7 +131,7 @@ body.lock {
 }
 
 body {
-	background: url(../img/fon.jpg) 0 0 no-repeat;
+	background: url(../img/zima3.jpg) 0 0 no-repeat;
 }
 
 .container {
@@ -148,7 +148,7 @@ a {
 	text-align: center;
 	color: khaki;
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: rgba(255, 150, 64, 1);
+	/*background-color: rgba(255, 150, 64, 1);*/
 }
 .header h1 {
 	font-family: "Kaushan Script";
@@ -165,7 +165,8 @@ a {
 	padding-left: 20px;
 	height: 38px;
 	line-height: 38px;
-	background-color: rgba(255, 116, 0, 1);
+	/*background-color: rgba(255, 116, 0, 1);*/
+	background-color: rgba(133, 164, 242, 0.2);
 }
 .menu__list li {
 	margin: 0 20px;
@@ -192,11 +193,13 @@ a {
 }
 .main-content__item {
 	display: flex;
-	border: 2px solid #ff9640;
+	/*border: 2px solid #ff9640;*/
+	border: 2px solid #0d2d7f;
 	border-radius: 5px;
 	margin-bottom: 20px;
 	padding: 3px;
-	background-color: rgba(255, 150, 64, 0.9);
+	/*background-color: rgba(255, 150, 64, 0.9);*/
+	background-color: rgba(13, 45, 127, 0.9);
 }
 .item__img {
 	width: 310px;
@@ -217,7 +220,8 @@ a {
 	padding: 5px;
 	color: #fff;
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: rgba(255, 116, 0, 1);
+	/*background-color: rgba(255, 116, 0, 1);*/
+	background-color: rgba(13, 45, 127);
 }
 .footer p {
 	margin-bottom: 10px;
