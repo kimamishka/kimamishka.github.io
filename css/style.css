@@ -132,7 +132,7 @@ body.lock {
 
 body {
 	background: url(../img/zima3.jpg) no-repeat;
-	background-position: center;
+	background-position-x: center;
 }
 
 .container {
