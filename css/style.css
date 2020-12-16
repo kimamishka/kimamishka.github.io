@@ -200,7 +200,7 @@ a {
 	margin-bottom: 20px;
 	padding: 3px;
 	/*background-color: rgba(255, 150, 64, 0.9);*/
-	background-color: rgba(13, 45, 127, 0.9);
+	background-color: rgba(13, 45, 127, 0.3);
 }
 .item__img {
 	width: 310px;
